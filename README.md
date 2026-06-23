@@ -29,3 +29,25 @@ C++
 SFML
 Object-Oriented Programming
 File Handling
+# How to Run
+Clone the repository
+ git clone https://github.com/burhanuddin16/OOP-PROJECT.git
+Open the project in your IDE
+Install SFML
+Build and run the project
+Learning Outcomes
+
+# Through this project, I gained experience in:
+
+Object-Oriented Design
+Software Architecture
+Problem Solving
+Team Collaboration
+Debugging Large Codebases
+SFML Graphics Programming
+# Future Improvements
+Better UI/UX
+More trading mechanics
+Additional planets and markets
+Multiplayer support
+Achievement system
